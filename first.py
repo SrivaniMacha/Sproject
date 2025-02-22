@@ -1,1 +1,1 @@
-This a python file
+print("hi")
